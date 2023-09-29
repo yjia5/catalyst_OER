@@ -9,3 +9,6 @@ Calculate the phonon of absorbate of *OH, *O, *OOH
 
 ## Step 3:
 Grep results of E0 (Internal energy of zero-temperature) and entropy correction based on phonon calculation
+
+## Step 4:
+Use the jupyter notebook to plot the energy diagram
